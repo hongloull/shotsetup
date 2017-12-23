@@ -1,0 +1,2 @@
+# shotsetup
+shot setup 
